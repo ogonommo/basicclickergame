@@ -1,0 +1,14 @@
+{
+  "name": "clickergame",
+  "version": "0.0.1",
+  "description": "Basic clicker game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stoyan Peshev",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
