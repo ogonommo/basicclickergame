@@ -9,6 +9,7 @@
   "author": "Stoyan Peshev",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "npm": "^6.2.0"
   }
 }
