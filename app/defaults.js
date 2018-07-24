@@ -1,6 +1,6 @@
-var setup = {}
+var Setup = {}
 
-setup._save = {
+Setup._save = {
   money: 10,
   speedBoost: 1,
   produceBoost: 1,
@@ -52,7 +52,7 @@ setup._save = {
   ]
 }
 
-setup._buildings = [
+Setup._buildings = [
   {
     id: 1,
     name: 'Sporangium',

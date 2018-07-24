@@ -1,3 +1,3 @@
-console.log('Debug');
+Utils.print('App is running...');
 
-console.log(setup);
+Save.init();
